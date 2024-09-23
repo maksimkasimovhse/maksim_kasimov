@@ -1,4 +1,4 @@
 a = int(input())
 b = int(input())
 
-print("hello world")
+print(a + b)
